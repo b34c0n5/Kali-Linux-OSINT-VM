@@ -8,3 +8,6 @@ tools will aid in the information gathering phase of your
 
 pentest.
 
+If you have read OSINT Techniques by Matthew Bazzell I would 
+
+recommend using the search tools he provides.

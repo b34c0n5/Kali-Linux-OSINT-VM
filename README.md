@@ -6,6 +6,10 @@ Finding information about your target is crucial. These OSINT
 
 tools will aid in the reconnaissance phase of your pentest.
 
+Download draw.io
+
+https://github.com/jgraph/drawio-desktop/releases/tag/v23.0.2
+
 If you have read OSINT Techniques by Matthew Bazzell I would 
 
 recommend using the search tools he provides.

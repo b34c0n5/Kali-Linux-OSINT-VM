@@ -4,7 +4,7 @@ OSINT Tools you will need if you are pentesting with Kali Linux.
 
 Finding information about your target is crucial. These OSINT 
 
-tools will aid in the information gathering phase of your
+tools will aid in the reconnaissance phase of your
 
 pentest.
 

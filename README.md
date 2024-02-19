@@ -12,13 +12,15 @@ Python 3.11.8
 
 Downloads:
 
-proton vpn, tor browser, draw.io
+proton vpn, tor browser, draw.io, veracrypt
 
 https://protonvpn.com/
 
 https://www.torproject.org/download/
 
 https://github.com/jgraph/drawio-desktop/releases/tag/v23.0.2
+
+https://www.veracrypt.fr/en/Downloads.html
 
 firefox extensions:
 

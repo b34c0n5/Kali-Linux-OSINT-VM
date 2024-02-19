@@ -11,7 +11,6 @@ pipx install internetarchive
 pipx install search-that-hash
 pipx install name-that-hash
 pipx install h8mail
-pipx install toutatis
 pipx install domain-stats
 pipx install gitem
 pipx install howmanypeoplearearound

@@ -3,7 +3,6 @@ pipx install ghunt
 pipx install socialscan
 pipx install holehe
 pipx install xeuledoc
-pipx install bdfr
 pipx install waybackpy
 pipx install changedetection.io
 pipx install archivebox
@@ -16,10 +15,7 @@ pipx install toutatis
 pipx install domain-stats
 pipx install gitem
 pipx install howmanypeoplearearound
-pipx install instalooter
-pipx install instaloader
 pipx install whisper-ctranslate2
-pipx install openai-whisper
 pipx install checkdmarc
 pipx install shodan
 pipx ensurepath

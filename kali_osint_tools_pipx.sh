@@ -6,7 +6,6 @@ pipx install xeuledoc
 pipx install waybackpy
 pipx install changedetection.io
 pipx install archivebox
-pipx install streamlink
 pipx install internetarchive
 pipx install search-that-hash
 pipx install name-that-hash

@@ -6,6 +6,10 @@ Finding information about your target is crucial. These OSINT
 
 tools will aid in the reconnaissance phase of your pentest.
 
+Version of python used:
+
+Python 3.11.8
+
 Downloads:
 
 proton vpn, tor browser, draw.io

@@ -12,7 +12,7 @@ Python 3.11.8
 
 Downloads:
 
-proton vpn, tor browser, draw.io, veracrypt
+protonvpn, tor browser, draw.io, veracrypt, google earth pro
 
 https://protonvpn.com/
 
@@ -21,6 +21,8 @@ https://www.torproject.org/download/
 https://github.com/jgraph/drawio-desktop/releases/tag/v23.0.2
 
 https://www.veracrypt.fr/en/Downloads.html
+
+https://www.google.com/earth/about/versions/
 
 firefox extensions:
 

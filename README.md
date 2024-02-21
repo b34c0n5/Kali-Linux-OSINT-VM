@@ -12,7 +12,7 @@ Python 3.11.8
 
 Downloads:
 
-protonvpn, tor browser, draw.io, veracrypt, google earth pro
+protonvpn, tor browser, draw.io, veracrypt, google earth pro, google chrome
 
 https://protonvpn.com/
 
@@ -24,11 +24,17 @@ https://www.veracrypt.fr/en/Downloads.html
 
 https://www.google.com/earth/about/versions/
 
+https://support.google.com/chrome/a/answer/9025903?hl=en
+
 firefox extensions:
 
-firefox containers, ublock origin, downthemall, bulk media downloader, fireshot, nimbus, singleFile, exifviewer, user agent switcher, image search options,
+firefox containers, ublock origin, downthemall, bulk media downloader, fireshot, nimbus, singleFile, exifviewer, user agent switcher, image search options, reveye reverse search,
 
 search by image, ressurrect pages, web archives, copy selected links, onetab, stream detector, joplin webclipper, foxyproxy, adguard, javascript toggle on and off, ghunt companion, download all images, keepassxc
+
+chrome store extensions:
+
+InVID WeVerify
 
 
 If you have read OSINT Techniques by Matthew Bazzell I would 

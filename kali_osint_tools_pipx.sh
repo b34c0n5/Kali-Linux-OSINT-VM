@@ -108,8 +108,3 @@ git clone https://github.com/HACK3RY2J/Anon-SMS.git
 git clone https://github.com/MohammedAlsubhi/instashell-master.git
 git clone https://github.com/pvanfas/socialphish.git
 git clone https://github.com/4n4nk3/Wordlister.git
-
-go install github.com/tomnomnom/waybackurls@latest
-
-
-

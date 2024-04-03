@@ -6,6 +6,8 @@ Finding information about your target is crucial. These OSINT
 
 tools will aid in the reconnaissance phase of your pentest.
 
+These scripts are intended to be used on Kali Linux
+
 Version of python used:
 
 Python 3.11.8

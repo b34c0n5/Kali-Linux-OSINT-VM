@@ -12,7 +12,9 @@ Python 3.11.8
 
 Downloads:
 
-protonvpn, tor browser, draw.io, veracrypt, google earth pro, google chrome
+Latest version of Go, protonvpn, tor browser, draw.io, veracrypt, google earth pro, google chrome
+
+https://go.dev/dl/
 
 https://protonvpn.com/
 

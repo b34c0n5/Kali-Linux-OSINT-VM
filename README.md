@@ -1,10 +1,6 @@
 # Kali_Linux_OSINT_To0ls
 
-Finding information about your target is crucial. These OSINT 
-
-tools will aid in the reconnaissance phase of your pentest.
-
-These scripts are intended to be used on Kali Linux
+OSINT tools you will need when researching a target. 
 
 Version of python used:
 

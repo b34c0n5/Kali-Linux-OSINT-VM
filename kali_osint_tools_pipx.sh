@@ -113,6 +113,8 @@ git clone https://github.com/MohammedAlsubhi/instashell-master.git
 git clone https://github.com/pvanfas/socialphish.git
 git clone https://github.com/4n4nk3/Wordlister.git
 
-go install github.com/sensepost/gowitness@latest
 go install github.com/tomnomnom/waybackurls@latest
 go install github.com/tomnomnom/httprobe@master
+
+wget https://github.com/sensepost/gowitness/releases/download/2.5.1/gowitness-2.5.1-linux-amd64
+mv gowitness-2.5.1-linux-amd64 ~/go/bin

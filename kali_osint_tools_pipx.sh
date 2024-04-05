@@ -111,4 +111,4 @@ git clone https://github.com/4n4nk3/Wordlister.git
 
 go install github.com/sensepost/gowitness@latest
 go install github.com/tomnomnom/waybackurls@latest
-
+go install github.com/tomnomnom/httprobe@master

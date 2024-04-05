@@ -97,6 +97,7 @@ python3 -m venv wmn-pythonEnv
 source wmn-pythonEnv/bin/activate
 pip install -r requirements.txt
 deactivate
+cd ~/programs/
 wget https://github.com/tomnomnom/gron/releases/download/v0.7.1/gron-linux-amd64-0.7.1.tgz
 tar xzf gron-linux-amd64-0.7.1.tgz
 rm gron-linux-amd64-0.7.1.tgz

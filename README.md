@@ -41,6 +41,6 @@ recommend using the search tools he provides.
 
 As well as the flow charts and templates.
 
-***REMEBER*** to update path you must edit the .zshrc file, not the .bashrc
+***REMEBER*** to update the $PATH you must edit the .zshrc file, not the .bashrc
 nano .zshrc 
 

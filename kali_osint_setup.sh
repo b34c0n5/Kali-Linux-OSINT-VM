@@ -1,6 +1,7 @@
 #!/bin/bash
 
 apt install tor ufw gospider hakrawler gobuster ruby-dev ffuf seclists youtubedl-gui filezilla libreoffice -y
+apt install -y linux-headers-$(uname -r) build-essential bc dkms git libelf-dev rfkill 
 apt install httrack webhttrack sherlock eyewitness sublist3r photon theharvester recon-ng python3-venv jq pipx -y
 apt install snapd golang mediainfo-gui kali-tools-crypto-stego -y
 apt install marble qgis finalrecon ugrep bloodhound bing-ip2hosts realtek-rtl88xxau-dkms -y

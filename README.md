@@ -40,3 +40,7 @@ If you have read OSINT Techniques by Matthew Bazzell I would
 recommend using the search tools he provides.
 
 As well as the flow charts and templates.
+
+***REMEBER*** to update path you must edit the .zshrc file, not the .bashrc
+nano .zshrc 
+

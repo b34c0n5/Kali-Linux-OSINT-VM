@@ -11,6 +11,7 @@ systemctl enable snapd
 gem install mechanize
 gem install colorize
 snap install youtube-dl-pro
+snap install joplin-desktop
 systemctl enable ufw
 ufw enable
 systemctl start postgresql

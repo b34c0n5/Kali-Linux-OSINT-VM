@@ -120,6 +120,7 @@ git clone https://github.com/MohammedAlsubhi/instashell-master.git
 git clone https://github.com/pvanfas/socialphish.git
 git clone https://github.com/4n4nk3/Wordlister.git
 git clone https://github.com/netlas-io/netlas-scripts.git
+git clone https://github.com/TermuxHackz/X-osint
 
 go install github.com/tomnomnom/waybackurls@latest
 go install github.com/tomnomnom/httprobe@master

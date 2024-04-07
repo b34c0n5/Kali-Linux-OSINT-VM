@@ -9,6 +9,8 @@ apt install mat2 gallery-dl libimage-exiftool-perl stegosuite exifprobe ruby-bun
 apt install thunderbird sq python3-lxml libre-dev exiflooter -y
 systemctl start snapd
 systemctl enable snapd
+systemctl start snapd.apparmor
+systemctl enable snapd.apparmor
 gem install mechanize
 gem install colorize
 snap install youtube-dl-pro

@@ -72,17 +72,8 @@ mkdir phoneinfoga
 cd phoneinfoga
 wget https://github.com/sundowndev/phoneinfoga/releases/download/v2.10.8/phoneinfoga_Linux_x86_64.tar.gz
 tar -xzvf phoneinfoga_Linux_x86_64.tar.gz
-rm -r phoneinfoga_Linux_x86_64.tar.gz
+rm phoneinfoga_Linux_x86_64.tar.gz
 cd ~/programs/
-wget https://github.com/GiJ03/Infoga/archive/refs/heads/master.zip
-unzip master.zip
-cd Infoga-master
-python3 -m venv infogaEnv
-source infogaEnv/bin/activate
-python3 setup.py install 
-deactivate
-cd ~/programs/
-rm master.zip
 git clone https://github.com/hackingbutlegal/EXIF-scanner.git
 git clone https://github.com/AbirHasan2005/LittleBrother
 cd LittleBrother/

@@ -113,8 +113,3 @@ git clone https://github.com/4n4nk3/Wordlister.git
 git clone https://github.com/netlas-io/netlas-scripts.git
 git clone https://github.com/TermuxHackz/X-osint
 
-go install github.com/tomnomnom/waybackurls@latest
-go install github.com/tomnomnom/httprobe@master
-
-wget https://github.com/sensepost/gowitness/releases/download/2.5.1/gowitness-2.5.1-linux-amd64
-mv gowitness-2.5.1-linux-amd64 ~/go/bin

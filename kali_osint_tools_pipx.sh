@@ -99,6 +99,13 @@ python3 -m venv sherloqEnvironment
 source sherloqEnvironment/bin/activate
 pip install -r requirements.txt
 deactivate
+cd ~/programs/
+git clone https://github.com/smicallef/spiderfoot.git
+cd spiderfoot
+python3 -m venv spiderfootEnvironment
+source spiderfootEnvironment/bin/activate
+pip install -r requirements.txt
+deactivate
 
 cd ~/programs/
 git clone https://github.com/hatlord/Spiderpig.git

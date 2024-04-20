@@ -17,6 +17,7 @@ gem install mechanize
 gem install colorize
 snap install youtube-dl-pro
 snap install joplin-desktop
+snap install ngrok
 systemctl enable ufw
 ufw enable
 systemctl start postgresql

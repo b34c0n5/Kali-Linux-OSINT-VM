@@ -121,3 +121,6 @@ git clone https://github.com/netlas-io/netlas-scripts.git
 git clone https://github.com/TermuxHackz/X-osint
 wget https://github.com/TermuxHackz/anonphisher/releases/download/3.3.2/anonphisher_3.3.2_all.deb
 
+cd
+git clone https://github.com/BigggChungus/onion-links.git
+

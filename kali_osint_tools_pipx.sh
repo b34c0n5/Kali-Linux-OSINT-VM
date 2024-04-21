@@ -130,6 +130,6 @@ git clone https://github.com/The-Hidden-Wiki-URLs/2024.git
 
 cd
 mkdir ~/.config/amass
-cd .config/amass
+cd ~/.config/amass
 git clone https://github.com/proabiral/Fresh-Resolvers.git
 cd

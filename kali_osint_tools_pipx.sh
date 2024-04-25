@@ -106,6 +106,13 @@ python3 -m venv spiderfootEnvironment
 source spiderfootEnvironment/bin/activate
 pip install -r requirements.txt
 deactivate
+cd ~/programs/
+git clone https://github.com/laramies/theHarvester.git
+cd theHarvester
+python3 -m venv theHarvesterEnvironment
+source theHarvesterEnvironment/bin/activate
+pip install -r requirements.txt
+deactivate
 
 cd ~/programs/
 git clone https://github.com/hatlord/Spiderpig.git

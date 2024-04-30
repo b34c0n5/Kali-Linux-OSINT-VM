@@ -125,6 +125,7 @@ git clone https://github.com/MohammedAlsubhi/instashell-master.git
 git clone https://github.com/4n4nk3/Wordlister.git
 git clone https://github.com/netlas-io/netlas-scripts.git
 git clone https://github.com/TermuxHackz/X-osint
+git clone https://github.com/proabiral/Fresh-Resolvers.git
 wget https://github.com/TermuxHackz/anonphisher/releases/download/3.3.2/anonphisher_3.3.2_all.deb
 
 cd

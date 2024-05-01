@@ -128,6 +128,11 @@ git clone https://github.com/TermuxHackz/X-osint
 git clone https://github.com/proabiral/Fresh-Resolvers.git
 wget https://github.com/TermuxHackz/anonphisher/releases/download/3.3.2/anonphisher_3.3.2_all.deb
 
+python3 -m venv proxybroker2
+source proxybroker2/bin/activate
+pip install -U git+https://github.com/bluet/proxybroker2.git
+deactivate
+
 cd
 mkdir tor-links
 cd tor-links

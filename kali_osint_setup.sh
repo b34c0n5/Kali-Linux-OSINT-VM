@@ -19,6 +19,7 @@ snap install youtube-dl-pro
 snap install joplin-desktop
 snap install ngrok
 snap install localxpose
+snap install telegram-desktop
 systemctl enable ufw
 ufw enable
 systemctl start postgresql

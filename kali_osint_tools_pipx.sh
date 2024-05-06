@@ -133,6 +133,13 @@ source proxybroker2/bin/activate
 pip install -U git+https://github.com/bluet/proxybroker2.git
 deactivate
 
+mkdir yt-dlp
+cd yt-dlp
+wget https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp
+wget https://github.com/yt-dlp/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-linux64-gpl.tar.xz
+tar -xf ffmpeg-master-latest-linux64-gpl.tar.xz
+rm ffmpeg-master-latest-linux64-gpl.tar.xz
+
 cd
 mkdir tor-links
 cd tor-links

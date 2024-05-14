@@ -34,6 +34,10 @@ echo $PATH | grep "/usr/local/go/bin"
 
 bash go.sh
 
+Change DNS:
+
+sudo bash change_dns.sh
+
 firefox extensions:
 
 firefox containers, ublock origin, downthemall, bulk media downloader, fireshot, nimbus, singleFile, exifviewer, user agent switcher, image search options, reveye reverse search,

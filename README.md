@@ -38,6 +38,8 @@ Change DNS:
 
 sudo bash change_dns.sh
 
+reboot
+
 firefox extensions:
 
 firefox containers, ublock origin, downthemall, bulk media downloader, fireshot, nimbus, singleFile, exifviewer, user agent switcher, image search options, reveye reverse search,

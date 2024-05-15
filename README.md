@@ -22,6 +22,8 @@ https://support.google.com/chrome/a/answer/9025903?hl=en
 
 Download the latest version of Go
 
+https://go.dev/dl/
+
 Go to the downloads page and download the binary release for linux amd64
 
 Extract the archive file

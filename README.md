@@ -22,7 +22,7 @@ https://support.google.com/chrome/a/answer/9025903?hl=en
 
 https://go.dev/dl/
 
-**How to install latest version of Go:**
+**How to install the latest version of Go:**
 
 Download latestest version
 

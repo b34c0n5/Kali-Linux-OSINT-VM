@@ -65,3 +65,7 @@ As well as the flow charts and templates.
 
 nano .zshrc 
 
+**Anonymizing virtual machines with Whonix for an added layer of security**
+
+https://0x00sec.org/t/anonymizing-virtual-machines-with-whonix/17529
+

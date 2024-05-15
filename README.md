@@ -6,21 +6,14 @@ Version of python used:
 
 Python 3.11.8
 
-Downloads:
+**Install:**
 
-Protonvpn, tor browser, draw.io, google earth pro, google chrome
+sudo bash kali_osint_setup.sh
 
-https://protonvpn.com/
+bash kali_osint_tools_pipx.sh
 
-https://www.torproject.org/download/
+sudo bash snoint.sh
 
-https://github.com/jgraph/drawio-desktop/releases/tag/v23.0.2
-
-https://www.google.com/earth/about/versions/
-
-https://support.google.com/chrome/a/answer/9025903?hl=en
-
-https://go.dev/dl/
 
 **How to install the latest version of Go:**
 
@@ -43,6 +36,25 @@ bash go.sh
 sudo bash change_dns.sh
 
 reboot
+
+
+
+**Downloads:**
+
+Protonvpn, tor browser, draw.io, google earth pro, google chrome
+
+https://protonvpn.com/
+
+https://www.torproject.org/download/
+
+https://github.com/jgraph/drawio-desktop/releases/tag/v23.0.2
+
+https://www.google.com/earth/about/versions/
+
+https://support.google.com/chrome/a/answer/9025903?hl=en
+
+https://go.dev/dl/
+
 
 **firefox extensions:**
 

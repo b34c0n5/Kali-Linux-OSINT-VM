@@ -17,6 +17,11 @@ bash kali_osint_tools_pipx.sh
 
 sudo bash snoint.sh
 
+**Change DNS:**
+
+sudo bash change_dns.sh
+
+reboot
 
 **How to install the latest version of Go:**
 
@@ -34,11 +39,7 @@ echo $PATH | grep "/usr/local/go/bin"
 
 bash go.sh
 
-**Change DNS:**
 
-sudo bash change_dns.sh
-
-reboot
 
 
 

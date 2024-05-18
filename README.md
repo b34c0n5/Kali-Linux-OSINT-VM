@@ -1,6 +1,6 @@
 # Kali_Linux_OSINT_To0ls
 
-OSINT tools you will need when researching a target. 
+OSINT tools for researching a target. 
 
 <img src="kali_linux_dragon.png" alt="kali linux dragon logo">
 

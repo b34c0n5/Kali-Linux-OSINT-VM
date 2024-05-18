@@ -2,6 +2,9 @@
 
 OSINT tools you will need when researching a target. 
 
+<img src="kali_linux_dragon.png" alt="kali linux dragon logo">
+
+
 Version of python used:
 
 Python 3.11.8

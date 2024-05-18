@@ -25,7 +25,7 @@ reboot
 
 **How to install the latest version of Go:**
 
-Download latestest version
+Download latest version
 
 Extract the archive file
 

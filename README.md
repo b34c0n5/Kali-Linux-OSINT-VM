@@ -1,6 +1,6 @@
 # Kali_Linux_OSINT_To0ls
 
-OSINT tools for researching a target. 
+OSINT tools for researching a target. OSINT virtual machine.
 
 <img src="kali_linux_dragon.png" alt="kali linux dragon logo">
 

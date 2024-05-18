@@ -45,7 +45,7 @@ bash go.sh
 
 **Downloads:**
 
-Protonvpn, tor browser, draw.io, google earth pro, google chrome
+Protonvpn, tor browser, draw.io, google earth pro, google chrome, Go download
 
 https://protonvpn.com/
 

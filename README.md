@@ -8,6 +8,8 @@ OSINT tools for researching a target.
 
 **Install:**
 
+chmod +x *.sh
+
 sudo bash kali_osint_setup.sh
 
 bash kali_osint_tools_pipx.sh

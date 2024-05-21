@@ -8,6 +8,8 @@ OSINT tools for researching a target. OSINT virtual machine.
 
 **Install:**
 
+Install Kali Linux
+
 update and upgrade
 
 chmod +x *.sh

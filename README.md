@@ -2,7 +2,7 @@
 
 OSINT tools for researching a target. OSINT virtual machine.
 
-<img src="kali_linux_dragon.png" alt="kali linux dragon logo">
+<img src="https://raw.githubusercontent.com/dorianpro/kaliwallpapers/master/kali-linux-wallpaper-v7.png" alt="kali linux dragon logo">
 
 
 

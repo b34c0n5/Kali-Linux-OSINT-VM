@@ -1,4 +1,4 @@
-# Kali_Linux_OSINT_To0ls
+# Kali_Linux_OSINT_VM
 
 OSINT tools for researching a target. OSINT virtual machine.
 

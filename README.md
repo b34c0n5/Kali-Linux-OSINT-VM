@@ -1,5 +1,7 @@
 # Kali_Linux_OSINT_VM
 
+<img src="https://y.yarn.co/accae4d0-06cd-4667-b268-920e077f556a_text.gif" alt="So, you've been investigating me? gif">
+
 OSINT tools for researching a target. OSINT virtual machine.
 
 <img src="https://raw.githubusercontent.com/dorianpro/kaliwallpapers/master/kali-linux-wallpaper-v7.png" alt="kali linux dragon logo">

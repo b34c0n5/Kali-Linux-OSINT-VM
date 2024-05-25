@@ -52,19 +52,20 @@ bash go.sh
 
 **Downloads:**
 
-Protonvpn, tor browser, draw.io, google earth pro, google chrome, Go download
 
-https://protonvpn.com/
+<a href="https://protonvpn.com/">Protonvpn</a>, <a href="https://www.torproject.org/download/">tor browser</a>, 
+<a href="https://github.com/jgraph/drawio-desktop/releases/tag/v23.0.2">draw.io</a>, 
+<a href="https://www.google.com/earth/about/versions/">google earth pro</a>, 
+<a href="https://support.google.com/chrome/a/answer/9025903?hl=en">google chrome</a>, 
+<a href="https://go.dev/dl/">Go</a> 
 
-https://www.torproject.org/download/
 
-https://github.com/jgraph/drawio-desktop/releases/tag/v23.0.2
 
-https://www.google.com/earth/about/versions/
 
-https://support.google.com/chrome/a/answer/9025903?hl=en
 
-https://go.dev/dl/
+
+
+
 
 
 **firefox extensions:**

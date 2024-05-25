@@ -6,7 +6,9 @@
 
 <h2>OSINT tools for researching a target. OSINT virtual machine.</h2>
 
-<img src="https://raw.githubusercontent.com/dorianpro/kaliwallpapers/master/kali-linux-wallpaper-v7.png" alt="kali linux dragon logo" width="75%">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dorianpro/kaliwallpapers/master/kali-linux-wallpaper-v7.png" alt="kali linux dragon logo" width="75%">  
+</div>
 
 
 

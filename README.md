@@ -97,5 +97,14 @@ I would recommend using the search tools he provides. As well as the flow charts
 
 nano .zshrc 
 
-**Anonymize virtual machines with <a href="https://www.whonix.org/wiki/Download">Whonix</a> for an extra layer of security**
+**Anonymize virtual machines with <a href="https://www.whonix.org/wiki/Download">Whonix</a> for an extra layer of security:**
+
+<br><br><br>
+<div align="center">
+
+  <img src="Anonymizing_virtual_machines_with_Whonix.png" width="65%">
+  
+</div>
+<br><br><br>
+
 

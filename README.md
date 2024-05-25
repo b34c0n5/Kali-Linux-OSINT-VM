@@ -1,6 +1,6 @@
 # Kali_Linux_OSINT_VM
 <div align="center">
-  <img src="https://y.yarn.co/accae4d0-06cd-4667-b268-920e077f556a_text.gif" alt="So, you've been investigating me? gif" width="75%">
+  <img src="https://y.yarn.co/accae4d0-06cd-4667-b268-920e077f556a_text.gif" alt="So, you've been investigating me? gif" width="65%">
   
 </div>
 
@@ -14,7 +14,7 @@
 
 **Install:**
 
-Install <a href="https://www.kali.org/get-kali/#kali-platforms" width="70%">Kali Linux</a>  
+Install <a href="https://www.kali.org/get-kali/#kali-platforms" width="60%">Kali Linux</a>  
 
 update and upgrade
 

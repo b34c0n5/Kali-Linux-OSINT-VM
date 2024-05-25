@@ -10,7 +10,7 @@
 
 **Install:**
 
-Install <a href="https://www.kali.org/get-kali/#kali-platforms">Kali Linux</a>  
+Install <a href="https://www.kali.org/get-kali/#kali-platforms" width="65%">Kali Linux</a>  
 
 update and upgrade
 

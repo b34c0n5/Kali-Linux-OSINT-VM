@@ -102,7 +102,7 @@ nano .zshrc
 <br><br><br>
 <div align="center">
 
-  <img src="Anonymizing_virtual_machines_with_Whonix.png" width="65%">
+  <img src="Anonymizing_virtual_machines_with_Whonix.png" width="75%">
   
 </div>
 <br><br><br>

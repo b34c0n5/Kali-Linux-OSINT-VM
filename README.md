@@ -10,7 +10,7 @@ OSINT tools for researching a target. OSINT virtual machine.
 
 **Install:**
 
-Install Kali Linux
+Install <a href="https://www.kali.org/get-kali/#kali-platforms">Kali Linux</a>  
 
 update and upgrade
 

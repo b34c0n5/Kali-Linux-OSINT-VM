@@ -1,6 +1,6 @@
 # Kali_Linux_OSINT_VM
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/222/222419.gif" alt="So, you've been investigating me? gif" width="50%">
+  <img src="swords.gif" alt="Swords. gif" width="50%">
   
 </div>
 

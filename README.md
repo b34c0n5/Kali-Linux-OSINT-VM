@@ -7,7 +7,7 @@
 <h2>OSINT tools for researching. OSINT virtual machine.</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dorianpro/kaliwallpapers/master/kali-linux-wallpaper-v7.png" alt="kali linux dragon logo" width="65%">  
+  <img src="https://github.com/owerdogan/wallpapers-for-kali/blob/main/kali-red/red-kali16x9.jpg" alt="kali linux dragon logo" width="65%">  
 </div>
 <br><br>
 

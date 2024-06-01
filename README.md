@@ -1,13 +1,13 @@
 # Kali_Linux_OSINT_VM
 <div align="center">
-  <img src="swords.gif" alt="Swords. gif" width="50%">
+  <img src="swords.gif" alt="Swords. gif" width="50%" height="50%">
   
 </div>
 
 <h2>OSINT tools for researching. OSINT virtual machine.</h2>
 
 <div align="center">
-  <img src="https://github.com/owerdogan/wallpapers-for-kali/blob/main/kali-red/red-kali16x9.jpg" alt="kali linux dragon logo" width="65%">  
+  <img src="https://github.com/owerdogan/wallpapers-for-kali/blob/main/kali-red/red-kali16x9.jpg" alt="kali linux dragon logo" width="65%" height="65%">  
 </div>
 <br><br>
 
@@ -101,7 +101,7 @@ nano .zshrc
 <br><br>
 <div align="center">
 
-  <img src="Anonymizing_virtual_machines_with_Whonix.png" width="80%">
+  <img src="Anonymizing_virtual_machines_with_Whonix.png" width="80%" height="80%">
   
 </div>
 <br><br><br>

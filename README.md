@@ -95,7 +95,7 @@ I would recommend using the search tools he provides. As well as the flow charts
 ***REMEBER*** to update the $PATH you must edit the .zshrc file, not the .bashrc
 
 nano .zshrc 
-
+<br>
 <h2>
   
 **Anonymize virtual machines with <a href="https://www.whonix.org/wiki/Download">Whonix</a> for an extra layer of security:**

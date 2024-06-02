@@ -33,7 +33,7 @@ reboot
 
 **How to install the latest version of Go:**
 
-Download latest version
+Download the latest version of <a href="https://go.dev/dl/">Go</a>
 
 Extract the archive file
 

@@ -1,9 +1,10 @@
 # Kali_Linux_OSINT_VM
 <div align="center">
   <img src="swords.gif" alt="Swords. gif" width="50%" height="50%">
-  
+  <br><br>
+  <p><i>"a good sword remains in its sheath"</i></p>
 </div>
-
+<br><br>
 <h2>OSINT tools for researching. OSINT virtual machine.</h2>
 
 <div align="center">

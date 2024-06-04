@@ -18,6 +18,8 @@ Install <a href="https://www.kali.org/get-kali/#kali-platforms">Kali Linux</a>
 
 update and upgrade
 
+```console
+
 chmod +x *.sh
 
 sudo bash kali_osint_setup.sh
@@ -26,17 +28,25 @@ bash kali_osint_tools_pipx.sh
 
 sudo bash snoint.sh
 
+```
+
 **Change DNS:**
+
+```console
 
 sudo bash change_dns.sh
 
 reboot
+
+```
 
 **How to install the latest version of Go:**
 
 Download the latest version of <a href="https://go.dev/dl/">Go</a>
 
 Extract the archive file
+
+```console
 
 sudo tar -C /usr/local -xzf /home/$USER/Downloads/go{version of GO}linux-amd64.tar.gz
 
@@ -46,12 +56,15 @@ echo $PATH | grep "/usr/local/go/bin"
 
 nano .zshrc
 
+```
+
 **Install go packages:**
+
+```console
 
 bash go.sh
 
-
-
+```
 
 
 **Downloads:**
@@ -62,12 +75,6 @@ bash go.sh
 <a href="https://www.google.com/earth/about/versions/">google earth pro</a>, 
 <a href="https://support.google.com/chrome/a/answer/9025903?hl=en">google chrome</a>, 
 <a href="https://go.dev/dl/">Go</a> 
-
-
-
-
-
-
 
 
 

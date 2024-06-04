@@ -20,6 +20,8 @@ update and upgrade
 
 ```console
 
+git clone https://github.com/midnit3Z0mbi3/Kali_Linux_OSINT_VM.git
+
 chmod +x *.sh
 
 sudo bash kali_osint_setup.sh

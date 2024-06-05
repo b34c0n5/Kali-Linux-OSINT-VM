@@ -60,6 +60,8 @@ echo $PATH | grep "/usr/local/go/bin"
 
 nano .zshrc
 
+export PATH="/usr/local/go/bin:$PATH"
+
 ```
 
 **Install go packages:**

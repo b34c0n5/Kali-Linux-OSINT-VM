@@ -18,7 +18,7 @@
 
 Install <a href="https://www.virtualbox.org/">VirtualBox</a>
 
-Create a new <a href="https://www.kali.org/get-kali/#kali-platforms">Kali Linux</a> Virtual Machine on VirtualBox. Or, import the Pre-built Virtual Machine.
+Create a new <a href="https://www.kali.org/get-kali/#kali-platforms">Kali Linux</a> Virtual Machine on VirtualBox. Or, import the <a href="https://www.kali.org/get-kali/#kali-platforms">Pre-built Virtual Machine</a>.
 
 Gnome desktop environment works best with this Virtual Machine build. 
 

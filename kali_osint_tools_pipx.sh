@@ -17,6 +17,8 @@ pipx install whisper-ctranslate2
 pipx install checkdmarc
 pipx install shodan
 pipx install netlas
+pipx install postleaks
+pipx install postleaksNg
 pipx ensurepath
 
 cd
@@ -126,6 +128,7 @@ git clone https://github.com/4n4nk3/Wordlister.git
 git clone https://github.com/netlas-io/netlas-scripts.git
 git clone https://github.com/TermuxHackz/X-osint
 git clone https://github.com/proabiral/Fresh-Resolvers.git
+git clone https://github.com/schooldropout1337/lazyegg.git
 wget https://github.com/TermuxHackz/anonphisher/releases/download/3.3.2/anonphisher_3.3.2_all.deb
 
 python3 -m venv proxybroker2

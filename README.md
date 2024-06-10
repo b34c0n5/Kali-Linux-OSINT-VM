@@ -16,9 +16,15 @@
 
 **Install:**
 
-Install <a href="https://www.kali.org/get-kali/#kali-platforms">Kali Linux</a>  
+Install <a href="https://www.virtualbox.org/">VirtualBox</a>
+
+Create a new <a href="https://www.kali.org/get-kali/#kali-platforms">Kali Linux</a> Virtual Machine on VirtualBox. Or, import the Pre-built Virtual Machine.
+
+Start Virtual Machine
 
 update and upgrade
+
+Install Github
 
 ```console
 

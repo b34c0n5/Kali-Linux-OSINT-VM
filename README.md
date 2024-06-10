@@ -24,7 +24,7 @@ Gnome desktop environment works best with this Virtual Machine build.
 
 Start Virtual Machine
 
-update and upgrade
+Update and Upgrade
 
 Install Github
 

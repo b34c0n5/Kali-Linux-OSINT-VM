@@ -95,8 +95,8 @@ wget https://github.com/tomnomnom/gron/releases/download/v0.7.1/gron-linux-amd64
 tar xzf gron-linux-amd64-0.7.1.tgz
 rm gron-linux-amd64-0.7.1.tgz
 cd ~/programs/
-git clone https://github.com/GuidoBartoli/sherloq.git
-cd sherloq/gui
+git clone https://github.com/midnit3Z0mbi3/Sherloq-fork.git
+cd Sherloq-fork/gui
 python3 -m venv sherloqEnvironment
 source sherloqEnvironment/bin/activate
 pip install -r requirements.txt
@@ -126,7 +126,7 @@ git clone https://github.com/HACK3RY2J/Anon-SMS.git
 git clone https://github.com/MohammedAlsubhi/instashell-master.git
 git clone https://github.com/4n4nk3/Wordlister.git
 git clone https://github.com/netlas-io/netlas-scripts.git
-git clone https://github.com/TermuxHackz/X-osint
+git clone https://github.com/midnit3Z0mbi3/X-osint-fork.git
 git clone https://github.com/proabiral/Fresh-Resolvers.git
 git clone https://github.com/schooldropout1337/lazyegg.git
 wget https://github.com/TermuxHackz/anonphisher/releases/download/3.3.2/anonphisher_3.3.2_all.deb

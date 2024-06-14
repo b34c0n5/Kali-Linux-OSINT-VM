@@ -24,7 +24,7 @@ Install Kali Linux on Virtual Machine. Or import pre-built Virtual Machine.
 
 Gnome desktop environment works best with this Virtual Machine build. 
 
-Restart Virtual Machine
+Start Virtual Machine
 
 Update and Upgrade
 

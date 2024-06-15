@@ -95,8 +95,8 @@ wget https://github.com/tomnomnom/gron/releases/download/v0.7.1/gron-linux-amd64
 tar xzf gron-linux-amd64-0.7.1.tgz
 rm gron-linux-amd64-0.7.1.tgz
 cd ~/programs/
-git clone https://github.com/midnit3Z0mbi3/Sherloq-fork.git
-cd Sherloq-fork/gui
+git clone https://github.com/GuidoBartoli/sherloq.git
+cd sherloq/gui
 python3 -m venv sherloqEnvironment
 source sherloqEnvironment/bin/activate
 pip install -r requirements.txt

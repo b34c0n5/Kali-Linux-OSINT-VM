@@ -86,6 +86,22 @@ ngrok,
 localxpose,
 telegram-desktop
 
+## Resources
+
+BigggChungus onion-links - 2024 Dark Web Links & .Onion Links
+
+01Kevin01 OnionLinksV3 - 2024 Onion Links V3 (Forum&Chat&Markets)
+
+fastfire deepdarkCTI - Collection of Cyber Threat Intelligence sources from the deep and dark web 
+
+cipher387 osint_stuff_tool_collection - A collection of several hundred online tools for OSINT 
+
+cipher387 Dorks-collections-list - List of Github repositories and articles with list of dorks for different search engines 
+
+swisskyrepo InternalAllTheThings - Active Directory and Internal Pentest Cheatsheets 
+
+Snifer security-cheatsheets - A collection of cheatsheets for various infosec tools and topics. 
+
 
 ## **Install:**
 

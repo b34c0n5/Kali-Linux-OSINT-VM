@@ -214,6 +214,7 @@ InVID WeVerify, ublock origin, adguard, downthemall, fireshot,  singleFile, onet
 
 the chrome web store has a lot of useful AI web extensions, and other extensions that can aid in your research.
 
+## Note:
 ***REMEBER*** to update the $PATH you must edit the .zshrc file, not the .bashrc
 
 nano .zshrc 

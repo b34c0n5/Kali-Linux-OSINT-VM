@@ -224,6 +224,10 @@ edit the URL: section of the bookmark. Change "USER" to your actual username.
 
 example "file:///home/zombi3/Desktop/tools/index.html"
 
+## OSINT Templates
+
+extract OSINT_Templates_FlowchartsAndDocs.tar.gz to your ~/Templates directory
+
 ## Note:
 ***REMEBER*** to update the $PATH you must edit the .zshrc file, not the .bashrc
 

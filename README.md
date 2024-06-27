@@ -1,4 +1,4 @@
-# Kali_Linux_OSINT_VM
+# Kali Linux OSINT VM
 
 ## Description
 OSINT virtual machine with 100+ OSINT tools, cheatsheets, bookmarks, and other resources to help you in your OSINT investigation.  

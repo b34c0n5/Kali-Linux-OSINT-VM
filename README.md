@@ -136,7 +136,7 @@ Install Github
 
 ```console
 
-git clone https://github.com/midnit3Z0mbi3/Kali_Linux_OSINT_VM.git
+git clone https://github.com/midnit3Z0mbi3/Kali-Linux-OSINT-VM.git
 
 chmod +x *.sh
 

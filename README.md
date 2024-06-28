@@ -262,6 +262,6 @@ nano .zshrc
   <img src="Anonymizing_virtual_machines_with_Whonix.png" width="80%" height="80%">
   
 </div>
-<br><br><br>
+<br>
 
 

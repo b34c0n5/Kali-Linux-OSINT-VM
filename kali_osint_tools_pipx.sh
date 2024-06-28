@@ -134,6 +134,7 @@ git clone https://github.com/schooldropout1337/lazyegg.git
 git clone https://github.com/rndinfosecguy/TrashSearch.git
 git clone https://github.com/asciinema/agg.git
 git clone https://github.com/TermuxHackz/X-osint.git
+git clone https://github.com/m3n0sd0n4ld/GooFuzz.git
 wget https://github.com/TermuxHackz/anonphisher/releases/download/3.3.2/anonphisher_3.3.2_all.deb
 
 python3 -m venv proxybroker2

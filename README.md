@@ -13,7 +13,7 @@ OSINT virtual machine with 100+ OSINT tools, cheatsheets, custom search tools, b
 
 Python(pipx):
 
-ghunt,
+[ghunt](https://github.com/mxrch/GHunt),
 socialscan,
 holehe,
 xeuledoc,

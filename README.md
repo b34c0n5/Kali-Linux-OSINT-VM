@@ -94,6 +94,17 @@ Snap Packages:
 [localxpose](https://snapcraft.io/localxpose),
 [telegram-desktop](https://snapcraft.io/telegram-desktop)
 
+Go Packages:
+
+[waybackurls](https://github.com/tomnomnom/waybackurls),
+[amass](https://github.com/owasp-amass/amass),
+[amass oam-tools](https://github.com/owasp-amass/oam-tools),
+[httprobe](https://github.com/tomnomnom/httprobe),
+[gowitness](https://github.com/sensepost/gowitness),
+[katana](https://github.com/projectdiscovery/katana),
+[gotop](https://github.com/xxxserxxx/gotop)
+
+
 ## Resources
 
 OSINT Bookmarks. JSON and HTML.

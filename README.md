@@ -39,40 +39,40 @@ Python(pipx):
 
 GitHub Repositories:
 
-Elasticsearch-Crawler,
-blackbird,
-Carbon14,
-maigret,
-Cr3dOv3r,
-BridgeKeeper,
-Elevate,
-pwnedOrNot,
-phoneinfoga,
-EXIF-scanner,
-LittleBrother,
-WhatsMyName-Python,
-gron,
-sherloq,
-spiderfoot,
-theHarvester,
-Spiderpig,
-WikiLeaker,
-ID-entify,
-ReverseIP,
-UhOh365,
-Anon-SMS,
-instashell,
-Wordlister,
-netlas-scripts,
-Fresh-Resolvers,
-lazyegg,
-TrashSearch,
-agg,
-X-osint,
-anonphisher,
-proxybroker2,
-yt-dlp,
-GooFuzz
+[Elasticsearch-Crawler](https://github.com/AmIJesse/Elasticsearch-Crawler.git),
+[blackbird](https://github.com/p1ngul1n0/blackbird),
+[Carbon14](https://github.com/Lazza/Carbon14.git),
+[maigret](https://github.com/soxoj/maigret),
+[Cr3dOv3r](https://github.com/D4Vinci/Cr3dOv3r.git),
+[BridgeKeeper](https://github.com/0xZDH/BridgeKeeper.git),
+[Elevate](https://github.com/Healdb/Elevate.git),
+[pwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot.git),
+[phoneinfoga](https://github.com/sundowndev/phoneinfoga),
+[EXIF-scanner](https://github.com/hackingbutlegal/EXIF-scanner.git),
+[LittleBrother](https://github.com/AbirHasan2005/LittleBrother),
+[WhatsMyName-Python](https://github.com/C3n7ral051nt4g3ncy/WhatsMyName-Python),
+[gron](https://github.com/tomnomnom/gron),
+[sherloq](https://github.com/GuidoBartoli/sherloq.git),
+[spiderfoot](https://github.com/smicallef/spiderfoot.git),
+[theHarvester](https://github.com/laramies/theHarvester.git),
+[Spiderpig](https://github.com/hatlord/Spiderpig.git),
+[WikiLeaker](https://github.com/jocephus/WikiLeaker.git),
+[ID-entify](https://github.com/BillyV4/ID-entify.git),
+[ReverseIP](https://github.com/lolwaleet/ReverseIP.git),
+[UhOh365](https://github.com/Raikia/UhOh365.git),
+[Anon-SMS](https://github.com/HACK3RY2J/Anon-SMS.git),
+[instashell](https://github.com/MohammedAlsubhi/instashell-master.git),
+[Wordlister](https://github.com/4n4nk3/Wordlister.git),
+[netlas-scripts](https://github.com/netlas-io/netlas-scripts.git),
+[Fresh-Resolvers](https://github.com/proabiral/Fresh-Resolvers.git),
+[lazyegg](https://github.com/schooldropout1337/lazyegg.git),
+[TrashSearch](https://github.com/rndinfosecguy/TrashSearch.git),
+[agg](https://github.com/asciinema/agg.git),
+[X-osint](https://github.com/TermuxHackz/X-osint.git),
+[anonphisher](https://github.com/TermuxHackz/anonphisher),
+[proxybroker2](https://github.com/bluet/proxybroker2.git),
+[yt-dlp](https://github.com/yt-dlp/yt-dlp),
+[GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz.git)
 
 Apt Package Manager:
 
@@ -88,11 +88,11 @@ npm, wpscan
 
 Snap Packages:
 
-youtube-dl-pro,
-joplin-desktop,
-ngrok,
-localxpose,
-telegram-desktop
+[youtube-dl-pro](https://snapcraft.io/youtube-dl-pro),
+[joplin-desktop](https://snapcraft.io/joplin-desktop),
+[ngrok](https://snapcraft.io/ngrok),
+[localxpose](https://snapcraft.io/localxpose),
+[telegram-desktop](https://snapcraft.io/telegram-desktop)
 
 ## Resources
 
@@ -102,23 +102,23 @@ Custom Search Tools
 
 Templates for OSINT Flowcharts and Documents
 
-BigggChungus onion-links - 2024 Dark Web Links & .Onion Links
+[BigggChungus onion-links](https://github.com/BigggChungus/onion-links.git) - 2024 Dark Web Links & .Onion Links
 
-01Kevin01 OnionLinksV3 - 2024 Onion Links V3 (Forum&Chat&Markets)
+[01Kevin01 OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3.git) - 2024 Onion Links V3 (Forum&Chat&Markets)
 
-fastfire deepdarkCTI - Collection of Cyber Threat Intelligence sources from the deep and dark web 
+[fastfire deepdarkCTI](https://github.com/fastfire/deepdarkCTI.git) - Collection of Cyber Threat Intelligence sources from the deep and dark web 
 
-cipher387 osint_stuff_tool_collection - A collection of several hundred online tools for OSINT 
+[cipher387 osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection.git) - A collection of several hundred online tools for OSINT 
 
-cipher387 Dorks-collections-list - List of Github repositories and articles with list of dorks for different search engines 
+[cipher387 Dorks-collections-list](https://github.com/cipher387/Dorks-collections-list.git) - List of Github repositories and articles with list of dorks for different search engines 
 
-cipher387 WebCam-Google-Shodan-Dorks - Google & Shodan Dorks for WebCam
+[cipher387 WebCam-Google-Shodan-Dorks](https://github.com/ExploitXpErtz/WebCam-Google-Shodan-Dorks.git)  - Google & Shodan Dorks for WebCam
 
-cipher387 cheatsheets - High quality and text versions of cheat sheets from Cyber Detective Twitter
+[cipher387 cheatsheets](https://github.com/cipher387/cheatsheets.git) - High quality and text versions of cheat sheets from Cyber Detective Twitter
 
-swisskyrepo InternalAllTheThings - Active Directory and Internal Pentest Cheatsheets 
+[swisskyrepo InternalAllTheThings](https://github.com/swisskyrepo/InternalAllTheThings.git) - Active Directory and Internal Pentest Cheatsheets 
 
-andrewjkerr security-cheatsheets - A collection of cheatsheets for various infosec tools and topics. 
+[andrewjkerr security-cheatsheets](https://github.com/andrewjkerr/security-cheatsheets.git) - A collection of cheatsheets for various infosec tools and topics. 
 
 
 ## **Install:**

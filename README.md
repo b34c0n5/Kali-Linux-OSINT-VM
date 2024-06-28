@@ -71,7 +71,8 @@ agg,
 X-osint,
 anonphisher,
 proxybroker2,
-yt-dlp
+yt-dlp,
+GooFuzz
 
 Apt Package Manager:
 

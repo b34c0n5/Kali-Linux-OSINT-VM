@@ -158,6 +158,8 @@ bash kali_osint_tools_pipx.sh
 
 sudo bash snoint.sh
 
+bash go.sh
+
 ```
 
 **Change DNS:**
@@ -170,33 +172,6 @@ reboot
 
 ```
 
-**How to install the latest version of Go:**
-
-Download the latest version of <a href="https://go.dev/dl/">Go</a>
-
-Extract the archive file
-
-```console
-
-sudo tar -C /usr/local -xzf /home/$USER/Downloads/go{version of GO}linux-amd64.tar.gz
-
-Make sure your PATH contains /usr/local/go/bin
-
-echo $PATH | grep "/usr/local/go/bin"
-
-nano .zshrc
-
-export PATH="/usr/local/go/bin:$PATH"
-
-```
-
-**Install go packages:**
-
-```console
-
-bash go.sh
-
-```
 <br>
 
 
@@ -207,7 +182,6 @@ bash go.sh
 <a href="https://github.com/jgraph/drawio-desktop/releases/tag/v23.0.2">Draw.io</a>, 
 <a href="https://www.google.com/earth/about/versions/">Google Earth Pro</a>, 
 <a href="https://support.google.com/chrome/a/answer/9025903?hl=en">Google Chrome</a>, 
-<a href="https://go.dev/dl/">Go</a> 
 
 
 

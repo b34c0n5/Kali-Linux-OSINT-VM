@@ -22,6 +22,7 @@ snap install localxpose
 snap install telegram-desktop
 systemctl enable ufw
 ufw enable
+ufw allow ssh
 systemctl start postgresql
 systemctl enable postgresql
 systemctl start ssh

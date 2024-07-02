@@ -138,6 +138,22 @@ git clone https://github.com/TermuxHackz/X-osint.git
 git clone https://github.com/m3n0sd0n4ld/GooFuzz.git
 wget https://github.com/TermuxHackz/anonphisher/releases/download/3.3.2/anonphisher_3.3.2_all.deb
 
+cd ~/programs/
+git clone https://github.com/chm0dx/creepyCrawler.git
+cd creepyCrawler
+python3 -m venv creepyCrawlerEnv
+source creepyCrawlerEnv/bin/activate
+pip install -r requirements.txt
+deactivate
+
+cd ~/programs/
+git clone https://github.com/N0rz3/Eyes.git
+cd Eyes
+python3 -m venv EyesEnv
+source EyesEnv/bin/activate
+pip install -r requirements.txt
+deactivate
+
 python3 -m venv proxybroker2
 source proxybroker2/bin/activate
 pip install -U git+https://github.com/bluet/proxybroker2.git

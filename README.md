@@ -105,6 +105,8 @@ Go Packages:
 [katana](https://github.com/projectdiscovery/katana),
 [gotop](https://github.com/xxxserxxx/gotop),
 [ApkUrlGrep](https://github.com/ndelphit/apkurlgrep)
+[httpstat](https://github.com/davecheney/httpstat)
+[hauditor](https://github.com/trap-bytes/hauditor)
 
 
 ## Resources

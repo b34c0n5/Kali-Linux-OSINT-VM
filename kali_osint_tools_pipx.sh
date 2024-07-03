@@ -160,6 +160,11 @@ source proxybroker2/bin/activate
 pip install -U git+https://github.com/bluet/proxybroker2.git
 deactivate
 
+python -m venv TREAVORproxy
+source TREAVORproxy/bin/activate
+pip install git+https://github.com/blacklanternsecurity/trevorproxy
+deactivate
+
 mkdir yt-dlp
 cd yt-dlp
 wget https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp

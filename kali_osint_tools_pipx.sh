@@ -191,8 +191,4 @@ mkdir ~/.config/amass
 cd ~/.config/amass
 git clone https://github.com/proabiral/Fresh-Resolvers.git
 cd
-cd Pictures
-mkdir wallpapers
-cd wallpapers
-git clone https://github.com/owerdogan/wallpapers-for-kali.git
-git clone https://github.com/dorianpro/kali-linux-wallpapers.git
+

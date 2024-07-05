@@ -26,6 +26,8 @@ pipx install androguard
 pipx install bbot
 pipx ensurepath
 
+cargo install aichat
+
 cd
 mkdir programs
 cd programs

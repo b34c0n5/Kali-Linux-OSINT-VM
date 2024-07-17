@@ -79,7 +79,8 @@ GitHub Repositories:
 [creepyCrawler](https://github.com/chm0dx/creepyCrawler),
 [TREVORproxy](https://github.com/blacklanternsecurity/TREVORproxy),
 [PyGPT](https://github.com/szczyglis-dev/py-gpt),
-[AIChat: All-in-one AI CLI Tool](https://github.com/sigoden/aichat)
+[AIChat: All-in-one AI CLI Tool](https://github.com/sigoden/aichat),
+[BlueSpy](https://github.com/TarlogicSecurity/BlueSpy)
 
 Apt Package Manager:
 

@@ -15,6 +15,7 @@ systemctl start snapd.apparmor
 systemctl enable snapd.apparmor
 gem install mechanize
 gem install colorize
+gem install ronin-recon
 snap install youtube-dl-pro
 snap install joplin-desktop
 snap install ngrok

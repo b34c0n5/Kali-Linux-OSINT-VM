@@ -80,7 +80,8 @@ GitHub Repositories:
 [TREVORproxy](https://github.com/blacklanternsecurity/TREVORproxy),
 [PyGPT](https://github.com/szczyglis-dev/py-gpt),
 [AIChat: All-in-one AI CLI Tool](https://github.com/sigoden/aichat),
-[BlueSpy](https://github.com/TarlogicSecurity/BlueSpy)
+[BlueSpy](https://github.com/TarlogicSecurity/BlueSpy),
+[ronin-recon](https://github.com/ronin-rb/ronin-recon)
 
 Apt Package Manager:
 

@@ -38,7 +38,7 @@ Python(pipx):
 [postleaksNg](https://github.com/six2dez/postleaksNg),
 [Androguard](https://github.com/androguard/androguard),
 [BBot](https://github.com/blacklanternsecurity/bbot),
-[toutatis](https://github.com/megadose/toutatis)
+[toutatis](https://github.com/megadose/toutatis),
 [poetry](https://pypi.org/project/poetry/)
 
 GitHub Repositories:
@@ -83,7 +83,7 @@ GitHub Repositories:
 [PyGPT](https://github.com/szczyglis-dev/py-gpt),
 [AIChat: All-in-one AI CLI Tool](https://github.com/sigoden/aichat),
 [BlueSpy](https://github.com/TarlogicSecurity/BlueSpy),
-[ronin-recon](https://github.com/ronin-rb/ronin-recon)
+[ronin-recon](https://github.com/ronin-rb/ronin-recon),
 [DPULSE](https://github.com/OSINT-TECHNOLOGIES/dpulse)
 
 Apt Package Manager:

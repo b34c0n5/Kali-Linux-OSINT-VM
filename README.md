@@ -39,6 +39,7 @@ Python(pipx):
 [Androguard](https://github.com/androguard/androguard),
 [BBot](https://github.com/blacklanternsecurity/bbot),
 [toutatis](https://github.com/megadose/toutatis)
+[poetry](https://pypi.org/project/poetry/)
 
 GitHub Repositories:
 
@@ -83,6 +84,7 @@ GitHub Repositories:
 [AIChat: All-in-one AI CLI Tool](https://github.com/sigoden/aichat),
 [BlueSpy](https://github.com/TarlogicSecurity/BlueSpy),
 [ronin-recon](https://github.com/ronin-rb/ronin-recon)
+[DPULSE](https://github.com/OSINT-TECHNOLOGIES/dpulse)
 
 Apt Package Manager:
 
@@ -93,7 +95,7 @@ snapd, mediainfo-gui, kali-tools-crypto-stego, neovim, cargo, asciinema,
 marble, qgis, finalrecon, ugrep, bloodhound, bing-ip2hosts,
 mat2, gallery-dl, libimage-exiftool-perl, stegosuite, exifprobe, ruby-bundler, mpg123,
 thunderbird, sq, python3-lxml, libre-dev, exiflooter, flowblade, dumpsterdiver,
-npm, wpscan
+npm, wpscan, redis-tools
 
 
 Snap Packages:
@@ -119,6 +121,10 @@ Go Packages:
 [gungnir](https://github.com/g0ldencybersec/gungnir),
 [oneshell](https://github.com/tantosec/oneshell)
 
+
+Npm Packages:
+
+[ftp-spider](https://github.com/j3lte/ftp-spider)
 
 ## Resources
 

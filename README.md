@@ -96,7 +96,7 @@ snapd, mediainfo-gui, kali-tools-crypto-stego, neovim, cargo, asciinema,
 marble, qgis, finalrecon, ugrep, bloodhound, bing-ip2hosts,
 mat2, gallery-dl, libimage-exiftool-perl, stegosuite, exifprobe, ruby-bundler, mpg123,
 thunderbird, sq, python3-lxml, libre-dev, exiflooter, flowblade, dumpsterdiver,
-npm, wpscan, redis-tools
+npm, wpscan, redis-tools, mongo-tools
 
 
 Snap Packages:
